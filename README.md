@@ -1,4 +1,4 @@
 # Projeto-Inicial
-Projeto Inicial 
+Repositório 01
 
-Projeto inicial, à princípio criado apenas para avaliação dos estudos iniciados recentemente, focados na criação de perfil pessoal e repositórios.
+Reposítório criado apenas para avaliação dos estudos iniciados recentemente, focados na criação de perfis pessoais (Linkedin) e repositórios (GitHub) do curso superior de tecnologia de análise e desenvolvimento de sistemas.
